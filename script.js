@@ -6,7 +6,7 @@ const fileInput=promptForm.querySelector("#file-input");
 const fileUploadWrapper=promptForm.querySelector(".file-upload-wrapper");
 const themeToggle=document.querySelector("#theme-toggle-btn");
 
-const API_KEY="AIzaSyAhaQzKP1dKo9C0ZICl9bsw7B5QdtZ_ito";
+const API_KEY="";
 const API_URL=`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
   
 
