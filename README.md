@@ -23,6 +23,10 @@ JavaScript – Handles API requests and chatbot logic
 
 Google Gemini API – AI-powered responses
 
+🌐 Live Demo
+
+👉 https://cognix-ai-app-aln.netlify.app
+
 
 📌 Setup Instructions
 
